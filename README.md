@@ -11,7 +11,7 @@ This website was a code refactoring project for a homework assignment as part of
 
 This website was built with HTML and CSS.
 
-## Summary of what was done:
+## Summary of project:
 
 The original HTML and CSS was littered with redundant class div tags and classes that should have been labeled as just selector elements.
 
