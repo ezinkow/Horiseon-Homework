@@ -21,7 +21,7 @@ div class="header" instead of simply < header >
 
 div class="search-engine-optimization" and 2 other different named classes that all followed all the same css properties.
   
-  These classes were all combined in to one semantic class such as "body" or "row" to create much cleaner html and css code.
+  These classes were all combined in to one selector element such as "body" or "row" to create much cleaner html and css code.
   
   Combining these original html classes into one also made creating the css much cleaner and simpler, and instead of having around 15 css tags for some sections, I was able to make 3 or 4 selectors.
  
