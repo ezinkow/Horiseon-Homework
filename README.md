@@ -1,2 +1,2 @@
-# Horiseon-Homework
+# Horiseon-Solution-Services
 Week 2 Homework
