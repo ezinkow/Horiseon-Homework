@@ -16,6 +16,7 @@ This website was built with HTML and CSS.
 The original HTML and CSS was littered with redundant class div tags and classes that should have been labeled as just selector elements.
 
 Some examples of this were:
+
 div class="header" instead of simply < header >
 
 div class="search-engine'optimization" and 2 other different named classes that all followed all the same css properties.
