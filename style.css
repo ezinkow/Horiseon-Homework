@@ -2,12 +2,12 @@
     box-sizing: border-box;
     padding: 0;
 }
-    
+
 body {
     background-color: #d9dcd6;
     margin: 0;
     }
-    
+
 header {
     background-color: #2a607c;
     display: flex;
@@ -21,11 +21,11 @@ h1 {
     padding: 20px;
     margin-left: 30px;
 }
-    
+
 .seo {
     color: #d9dcd6;
     }
-    
+
 ul {
     display: flex;
     margin-top: 35px;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-    
+
 .container {
     display: flex;
 }
@@ -58,7 +58,7 @@ p {
 article {
     flex-direction: column
     }
-    
+
 .row {
     display: flex;
     margin: 0px 20px 20px 20px;
@@ -68,15 +68,15 @@ article {
     background-color: #0072bb;
     color: #ffffff;
     }
-    
+
 .text {
     margin: 20px;
     }
-    
+
 article img {
     max-height: 200px;
     }
-    
+
 aside {
     width: 450px;
     padding: 35px 20px 34px 20px;
@@ -91,27 +91,30 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
     }
-    
-h3 {
-    text-align: center;
-    font-weight: bold;
-    font-size: larger;
-    }
-    
+
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
     font-weight: bold;
     }
-    
+
+.description {
+    width: 1150px;
+    }
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    }
+
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     }
-    
+
 h4 {
     font-size: 20px;
     }
-    
